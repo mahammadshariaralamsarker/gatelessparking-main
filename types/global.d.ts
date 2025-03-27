@@ -6,4 +6,4 @@ declare global {
             role?: 'admin' | 'guest'
         }
     }
-}
+}  
